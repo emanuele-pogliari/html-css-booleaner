@@ -38,14 +38,12 @@ p {
 
 /*foto articolo*/
 
-.foto1 {
-    height: 100%;
-    width: 51%;
+.contenitore-foto {
+    max-height: 500px;
 }
 
-.foto2 {
-    width: 44%;
-    height: 100%;
+.altezza-foto {
+    height: 100%
 }
 
 .crediti-foto {
