@@ -87,3 +87,29 @@ th {
 .larghezza-colonne {
     width: 30%
 }
+
+/*Sezione "potrebbero interssarti"*/
+
+h3 {
+    color: grey;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.testo-foto {
+    position: absolute;
+    top: 10px;
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 1%;
+}
+
+.altri-link {
+    position: relative;
+}
+
+.foto-altri-link {
+    width: 18%;
+    margin-bottom: 10px;
+}
