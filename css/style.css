@@ -35,3 +35,19 @@ header {
 p {
     margin: 0;
 }
+
+/*foto articolo*/
+
+.foto1 {
+    height: 100%;
+    width: 48%;
+}
+
+.foto2 {
+    width: 41%;
+    height: 100%;
+}
+
+.crediti-foto {
+    font-size: 14px;
+}
