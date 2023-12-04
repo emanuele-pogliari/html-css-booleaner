@@ -6,7 +6,7 @@ main {
 /* Header */
 header {
     background-color: #4ea0ff;
-    background-image: url("/img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-size: 40%;
     height: 150px
 }
