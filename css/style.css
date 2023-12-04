@@ -64,3 +64,26 @@ ul {
     padding: 0;
     list-style: inside;
 }
+
+/* Tabella */
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+th {
+    text-align: left;
+}
+
+.stile-righe {
+    background-color: #b1e5f2;
+}
+
+.larghezza-colonne {
+    width: 30%
+}
