@@ -1,3 +1,8 @@
+main {
+    margin: auto;
+    width: 90%;
+}
+
 /* Header */
 header {
     background-color: #4ea0ff;
@@ -10,6 +15,8 @@ header {
     position: relative;
     top: 45%;
     width: 300px;
+    margin-left: 5%;
+
 }
 
 /* Titolo */
@@ -40,11 +47,11 @@ p {
 
 .foto1 {
     height: 100%;
-    width: 51%;
+    width: 52%;
 }
 
 .foto2 {
-    width: 44%;
+    width: 45%;
     height: 100%;
 }
 
