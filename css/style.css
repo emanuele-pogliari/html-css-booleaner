@@ -51,3 +51,9 @@ p {
 .crediti-foto {
     font-size: 14px;
 }
+
+/* Testo evidenziato in giallo */
+
+.testo-evidenziato {
+    background-color: yellow;
+}
