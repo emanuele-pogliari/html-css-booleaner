@@ -11,3 +11,27 @@ header {
     top: 45%;
     width: 300px;
 }
+
+/* Titolo */
+#titolo-articolo {
+    font-size: 3em;
+    margin: 0;
+}
+
+/* Autore articolo e data pubblicazione*/
+.info-articolo {
+    font-size: 19px;
+}
+
+.autore {
+    font-size: 22px;
+    color: #1ca7e3;
+}
+
+.data-articolo {
+    font-size: 14px;
+}
+
+p {
+    margin: 0;
+}
